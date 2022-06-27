@@ -4,7 +4,7 @@ I love technology and how the underlying process works.
 
 ## 🌱 Current
 
-Learning C and building projects to further deepen my knowledge.
+Learning and building projects.
 
 ## 📫 Contact
 
