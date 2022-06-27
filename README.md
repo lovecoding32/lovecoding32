@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @lovecoding32
 
-I love how technology and the underlying process works.
+I love technology and how the underlying process works.
 
 ## 🌱 Current
 
