@@ -4,7 +4,7 @@ I love technology and how the underlying process works.
 
 ## 🌱 Current
 
-Learning and building projects.
+Learning front-end development.
 
 ## 📫 Contact
 
